@@ -81,4 +81,4 @@ Authentication is not required to access the API endpoints.
     - `reservationId`: The unique identifier of the reservation.
 - **Response:**
     - Status Code: 204 (No Content)
-    - Content: Success message
+    - Content: Response message
